@@ -1,5 +1,10 @@
 
 # DataCamp_projects
-My solutions to [DataCamp Projects](https://www.datacamp.com/projects)
 
-[DataCamp](https://www.datacamp.com/) is a paid online learning platform for data science. They offer introductory courses on various topics.
+I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/projects) here so that I can quickly review them at my own leisure. I might have expanded upon or played with the notebooks after submitting them, so the outputs might no longer meet the requirements.
+
+|  Project | Keywords  | 
+|---|---|
+| Introduction to DataCamp Projects | jupyter-notebook  |
+| Exploring 67 years of LEGO  | read_csv, data aggregation  |
+|   |   |
