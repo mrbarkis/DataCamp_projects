@@ -6,5 +6,6 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 |  Project | Keywords  |
 |---|---|
 | Introduction to DataCamp Projects | jupyter-notebook  |
-| Exploring 67 years of LEGO  | read_csv, data aggregation  |
+| Exploring 67 years of LEGO  | pandas, data aggregation  |
 | A Network Analysis of Game of Thrones  | networkx, centrality measures, sorting DataFrames |
+| Dr. Semmelweis and the Discovery of Handwashing | pandas, bootstrapping | 
