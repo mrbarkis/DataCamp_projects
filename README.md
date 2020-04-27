@@ -8,4 +8,5 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Introduction to DataCamp Projects | jupyter-notebook  |
 | Exploring 67 years of LEGO  | pandas, data aggregation  |
 | A Network Analysis of Game of Thrones  | networkx, centrality measures, sorting DataFrames |
-| Dr. Semmelweis and the Discovery of Handwashing | pandas, bootstrapping | 
+| Dr. Semmelweis and the Discovery of Handwashing | pandas, bootstrapping |
+| TV, Halftime Shows, and the Big Game | pandas |
