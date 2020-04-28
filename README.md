@@ -1,4 +1,3 @@
-
 # DataCamp_projects
 
 I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/projects) here so that I can quickly review them at my own leisure. I might have expanded upon or played with the notebooks after submitting them, so the outputs might no longer meet the requirements.
@@ -10,3 +9,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | A Network Analysis of Game of Thrones  | networkx, centrality measures, sorting DataFrames |
 | Dr. Semmelweis and the Discovery of Handwashing | pandas, bootstrapping |
 | TV, Halftime Shows, and the Big Game | pandas |
+| Exploring the Bitcoin Cryptocurrency Market | panda, df.query(), df.assign(), df.sort_values() | 
