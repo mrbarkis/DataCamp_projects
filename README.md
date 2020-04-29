@@ -9,4 +9,5 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | A Network Analysis of Game of Thrones  | networkx, centrality measures, sorting DataFrames |
 | Dr. Semmelweis and the Discovery of Handwashing | pandas, bootstrapping |
 | TV, Halftime Shows, and the Big Game | pandas |
-| Exploring the Bitcoin Cryptocurrency Market | panda, df.query(), df.assign(), df.sort_values() | 
+| Exploring the Bitcoin Cryptocurrency Market | panda, df.query(), df.assign(), df.sort_values() |
+| The Android App Market on Google Play | df.sample(), df.duplicated(), df.drop_duplicates(), df.unique(), df.value_counts(), df.str.replace(), df.isin(), df.groupby().filter(), plotly, sns.jointplot|
