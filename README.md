@@ -11,3 +11,5 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | TV, Halftime Shows, and the Big Game | pandas |
 | Exploring the Bitcoin Cryptocurrency Market | panda, df.query(), df.assign(), df.sort_values() |
 | The Android App Market on Google Play | df.sample(), df.duplicated(), df.drop_duplicates(), df.unique(), df.value_counts(), df.str.replace(), df.isin(), df.groupby().filter(), plotly, sns.jointplot|
+| Predicting Credit Card Approvals | df.fillna(), .dtypes, sklearn intro, confusion_matrix |
+| 'Exploring the Evolution of Linux' | df.groupby(), timestamp |
