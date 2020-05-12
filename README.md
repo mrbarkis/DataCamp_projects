@@ -17,3 +17,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | A New Era of Data Analysis in Baseball | df.value_counts(), sns.regplot(), sns.kdeplot(), plt.hist2d()|
 | Generating Keywords for Google Ads |df.to_csv(), df.from_records(), df.rename(), df.append(), pprint()|
 | A Visual History of Nobel Price Winners | display(), sf.astype(), PercentFormatter(), sf.nsmallest(), sf.filter(), sns.lmplot() |
+|Recreating John Snow's Ghost Map| folium, bokeh, df.rename(), zip(), sf.to_list(), df.iterrows(), sf.dt.weekday_name|
