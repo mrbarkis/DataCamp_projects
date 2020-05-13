@@ -18,3 +18,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Generating Keywords for Google Ads |df.to_csv(), df.from_records(), df.rename(), df.append(), pprint()|
 | A Visual History of Nobel Price Winners | display(), sf.astype(), PercentFormatter(), sf.nsmallest(), sf.filter(), sns.lmplot() |
 |Recreating John Snow's Ghost Map| folium, bokeh, df.rename(), zip(), sf.to_list(), df.iterrows(), sf.dt.weekday_name|
+|Who Is Drunk and When in Ames, Iowa? |sf.value_counts(), groupby().size(), sf.sort_values(), df.dropna(), boxplot(by=), df.unstack()|
