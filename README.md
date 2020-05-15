@@ -17,6 +17,7 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | A New Era of Data Analysis in Baseball | df.value_counts(), sns.regplot(), sns.kdeplot(), plt.hist2d()|
 | Generating Keywords for Google Ads |df.to_csv(), df.from_records(), df.rename(), df.append(), pprint()|
 | A Visual History of Nobel Price Winners | display(), sf.astype(), PercentFormatter(), sf.nsmallest(), sf.filter(), sns.lmplot() |
-|Recreating John Snow's Ghost Map| folium, bokeh, df.rename(), zip(), sf.to_list(), df.iterrows(), sf.dt.weekday_name|
-|Who Is Drunk and When in Ames, Iowa? |sf.value_counts(), groupby().size(), sf.sort_values(), df.dropna(), boxplot(by=), df.unstack()|
-|Analyze Your Runkeeper Fitness Data | df.drop(), df.isnull().sum(), df.fillna(). sf.str.replace(), **df.resample()**, ax.axhspan, ax.axhline, sm.tsa.seasonal_decompose(), df.groupby()[cols].describe().unstack()|
+| Recreating John Snow's Ghost Map| folium, bokeh, df.rename(), zip(), sf.to_list(), df.iterrows(), sf.dt.weekday_name|
+| Who Is Drunk and When in Ames, Iowa? |sf.value_counts(), groupby().size(), sf.sort_values(), df.dropna(), boxplot(by=), df.unstack()|
+| Analyze Your Runkeeper Fitness Data | df.drop(), df.isnull().sum(), df.fillna(). sf.str.replace(), **df.resample()**, ax.axhspan, ax.axhline, sm.tsa.seasonal_decompose(), df.groupby()[cols].describe().unstack()|
+| Up and Down With the Kardashians |df.plot(), pd.to_datetime(), df.rolling(2).mean()|
