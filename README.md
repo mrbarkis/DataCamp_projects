@@ -21,3 +21,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Who Is Drunk and When in Ames, Iowa? |sf.value_counts(), groupby().size(), sf.sort_values(), df.dropna(), boxplot(by=), df.unstack()|
 | Analyze Your Runkeeper Fitness Data | df.drop(), df.isnull().sum(), df.fillna(). sf.str.replace(), **df.resample()**, ax.axhspan, ax.axhline, sm.tsa.seasonal_decompose(), df.groupby()[cols].describe().unstack()|
 | Up and Down With the Kardashians |df.plot(), pd.to_datetime(), df.rolling(2).mean()|
+| Real-time Insights from Social Media Data |**json**, open(), **Counter() from collections**, Counter.keys(), Counter.values(), list comprehensions, df.style.background_gradient()|
