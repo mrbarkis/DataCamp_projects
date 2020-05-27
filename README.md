@@ -22,4 +22,5 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Analyze Your Runkeeper Fitness Data | df.drop(), df.isnull().sum(), df.fillna(). sf.str.replace(), **df.resample()**, ax.axhspan, ax.axhline, sm.tsa.seasonal_decompose(), df.groupby()[cols].describe().unstack()|
 | Up and Down With the Kardashians |df.plot(), pd.to_datetime(), df.rolling(2).mean()|
 | Real-time Insights from Social Media Data |**json**, open(), **Counter() from collections**, Counter.keys(), Counter.values(), list comprehensions, df.style.background_gradient()|
-| Word Frequency in Moby Dick | **BeautifulSoup**, **nltk**, **requests**, nltk.FreqDist(), stopwords, RegexpTokenizer()]
+| Word Frequency in Moby Dick | **BeautifulSoup**, **nltk**, **requests**, nltk.FreqDist(), stopwords, RegexpTokenizer()|
+| Book Recommendations from Charles Darwin | **glob**, **re.sub()**, **os.path**, **pickle**, **gensim**, TfidfModel(), gensim.similarities, nltk.stem(), scipy.cluster.hierarchy |
