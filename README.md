@@ -25,3 +25,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Word Frequency in Moby Dick | **BeautifulSoup**, **nltk**, **requests**, nltk.FreqDist(), stopwords, RegexpTokenizer()|
 | Book Recommendations from Charles Darwin | **glob**, **re.sub()**, **os.path**, **pickle**, **gensim**, TfidfModel(), gensim.similarities, nltk.stem(), scipy.cluster.hierarchy |
 | Who's Tweeting? Trump or Trudeau?| **sklearn**, CountVectorizer, TfidfVectorizer, MultinomialNB, LinearSVC, accuracy_score, **confusion_matrix**|
+| The Hottest Topics in Machine Learning | NLP, **wordcloud**, CountVectorizer, LatentDirichletAllocation as **LDA** |
