@@ -26,3 +26,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Book Recommendations from Charles Darwin | **glob**, **re.sub()**, **os.path**, **pickle**, **gensim**, TfidfModel(), gensim.similarities, nltk.stem(), scipy.cluster.hierarchy |
 | Who's Tweeting? Trump or Trudeau?| **sklearn**, CountVectorizer, TfidfVectorizer, MultinomialNB, LinearSVC, accuracy_score, **confusion_matrix**|
 | The Hottest Topics in Machine Learning | NLP, **wordcloud**, CountVectorizer, LatentDirichletAllocation as **LDA** |
+| Find Movie Similarity from Plot Summaries | NLP, dendrogram, nltk.sent_tokenize(), nltk.word_tokenize(), re.search(),  SnowballStemmer(), TfidfVectorizer(), KMeans(), cosine_similarity(),linkage, dendrogram |
