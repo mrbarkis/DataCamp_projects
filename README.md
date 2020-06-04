@@ -29,3 +29,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Find Movie Similarity from Plot Summaries | NLP, dendrogram, nltk.sent_tokenize(), nltk.word_tokenize(), re.search(),  SnowballStemmer(), TfidfVectorizer(), KMeans(), cosine_similarity(),linkage, dendrogram |
 | Extract Stock Sentiment From News Headlines |**sentiment analysis**, **web scraping**, **BeautifulSoup**, **NLP**, **VADER**, SentimentIntensityAnalyzer, df.xs, df.join, df.unstack|
 |Bad Passwords and The NIST Guidelines| EDA, pandas, sf.str, sf.str.extract, sf.isin(), regex  |
+|Disney Movies and Box Office Success | EDA, df-sort_values(), pd.get_dummies(), groupby(), LinearRegression, bootstrapping pairs for confidence intervals|
