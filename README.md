@@ -31,3 +31,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 |Bad Passwords and The NIST Guidelines| EDA, pandas, sf.str, sf.str.extract, sf.isin(), regex  |
 |Disney Movies and Box Office Success | EDA, df-sort_values(), pd.get_dummies(), groupby(), LinearRegression, bootstrapping pairs for confidence intervals|
 | Risk and Returns: The Sharpe Ratio | EDA, pandas, df.pct_change()|, df.sub(df), df.div(df)|
+| Comparing Cosmetics By Ingredients | NLP, document-term-matrix, t-SNE, bokeh |
