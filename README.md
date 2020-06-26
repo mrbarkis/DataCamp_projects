@@ -32,4 +32,5 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 |Disney Movies and Box Office Success | EDA, df-sort_values(), pd.get_dummies(), groupby(), LinearRegression, bootstrapping pairs for confidence intervals|
 | Risk and Returns: The Sharpe Ratio | EDA, pandas, df.pct_change()|, df.sub(df), df.div(df)|
 | Comparing Cosmetics By Ingredients | NLP, document-term-matrix, t-SNE, bokeh |
-| Naïve Bees: Image Loading and Processing | **PIL**, data augmentation, image manipulation | 
+| Naïve Bees: Image Loading and Processing | **PIL**, data augmentation, image manipulation |
+| Naïve Bees: Predict Species from Images | **PIL**, HOG, PCA, SVM, ROC|
