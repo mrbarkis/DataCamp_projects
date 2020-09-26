@@ -34,3 +34,4 @@ I'm collecting my solutions to [DataCamp Projects](https://www.datacamp.com/proj
 | Comparing Cosmetics By Ingredients | NLP, document-term-matrix, t-SNE, bokeh |
 | Naïve Bees: Image Loading and Processing | **PIL**, data augmentation, image manipulation |
 | Naïve Bees: Predict Species from Images | **PIL**, HOG, PCA, SVM, ROC|
+| Do Left-handed People Really Die Young? | numpy, pandas, **Bayes' theorem** |
